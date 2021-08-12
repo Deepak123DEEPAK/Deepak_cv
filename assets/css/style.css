@@ -1,0 +1,30 @@
+/* @import "all.css";
+@import "font-awesome.css";
+@import "favicon.ico";
+@import "font-awesome.min.css";
+@import "owl.carousel.css";
+@import "basic.css";
+@import "layout.css";
+@import "blogs.css";
+@import "ionicons.css";
+@import "magnific-popup.css";
+@import "animate.css";
+@import "owl.carousel.css";
+@import "favicon.ico";
+@import "font.css";*/
+@import "all.css";
+@import "font-awesome.css";
+@import "font-awesome.min.css";
+@import "basic.css";
+@import "layout.css";
+@import "blogs.css";
+@import "ionicons.css";
+@import "magnific-popup";
+@import "animate.css";
+@import "owl.carousel.css";
+@import "new-skin.css";
+@import "font.css";
+.custom-css-class{
+	font-family: cursive;
+    font-size: 15px;
+} 
